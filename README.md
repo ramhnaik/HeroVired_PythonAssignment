@@ -7,11 +7,8 @@
 ●       The function should check the password against the following criteria:
 
       ○       Minimum length: The password should be at least 8 characters long.
-
       ○       Contains both uppercase and lowercase letters.
-
       ○       Contains at least one digit (0-9).
-
       ○       Contains at least one special character (e.g., !, @, #, $, %).
 
 ●       The function should return a boolean value indicating whether the password meets the criteria.
